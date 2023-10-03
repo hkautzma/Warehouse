@@ -2,12 +2,20 @@ body {
     font-family: 'Molle', cursive;
     font-family: 'Montserrat', sans-serif;
     background-image: url("../images/Warehouse\ Background.png"), cover no-repeat;
+    /* Don't know why this isn't showing up oh well lol*/
     background-color: #222222;
 }
 
+/*FONTS*/
 h1 {
     font-family: "Molle", cursive;
     color: #9E2A25;
+}
+
+h2 {
+    font-size: medium;
+    font-weight: 400;
+    color: white;
 }
 
 p {
@@ -15,6 +23,7 @@ p {
     color: white;
 }
 
+/* NAV*/
 ul {
     list-style-type: none;
 }
@@ -23,6 +32,7 @@ li {
     display: inline-block;
 }
 
+/*BUTTONS*/
 .red {
     background: #9E2A25;
     color: white;
@@ -33,6 +43,7 @@ li {
     color: white;
 }
 
+/*FOOTER*/
 .footer {
     display: inline-block;
     background-image: linear-gradient(to right #222222, #946734);
