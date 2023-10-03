@@ -55,5 +55,5 @@ li {
     height: 20px;
     font-size: small;
     display: inline-block;
-    background-image: linear-gradient(to right #222222, #946734);
+    background-image: linear-gradient(to right, #222222, #946734);
 }
