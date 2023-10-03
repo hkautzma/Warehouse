@@ -15,14 +15,12 @@ p {
     color: white;
 }
 
-nav {
-    width: 1157px;
-    justify-content: center;
-    align-items: center;
-}
-
 ul {
-    display: inline;
+    list-style-type: none;
+}
+li {
+    float: right;
+    display: inline-block;
 }
 
 .red {
@@ -36,5 +34,6 @@ ul {
 }
 
 .footer {
-    display: inline;
+    display: inline-block;
+    background-image: linear-gradient(to right #222222, #946734);
 }
