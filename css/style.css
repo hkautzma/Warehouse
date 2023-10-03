@@ -39,17 +39,22 @@ li {
 
 /*BUTTONS*/
 .red {
+    padding: 24px, 36px;
     background: #9E2A25;
     color: white;
 }
 
 #gold {
+    padding: 24px, 36px;
     background: #946734;
     color: white;
 }
 
 /*FOOTER*/
 .footer {
+    width: 100%;
+    height: 20px;
+    font-size: small;
     display: inline-block;
     background-image: linear-gradient(to right #222222, #946734);
 }
