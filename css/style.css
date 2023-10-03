@@ -52,7 +52,7 @@ li {
 /*FOOTER*/
 .footer {
     width: 100%;
-    height: 20px;
+    height: 80px;
     font-size: small;
     display: inline-block;
     background-image: linear-gradient(to right, #222222, #946734);
