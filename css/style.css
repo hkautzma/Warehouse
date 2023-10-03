@@ -1,7 +1,6 @@
 body {
     background-image: url("../images/Warehouse\ Background.png");
     background-repeat: no-repeat;
-    /* Don't know why this isn't showing up oh well lol*/
     background-color: #222222;
 }
 
@@ -31,20 +30,22 @@ li {
     display: inline-block;
     color: white; 
     text-decoration: none;
-    padding: 10px;
+    padding: 20px;
 }
 
 
 
 /*BUTTONS*/
 .red {
-    padding: 24px, 36px;
+    padding: 20px;
+    border-radius: 20px;
     background: #9E2A25;
     color: white;
 }
 
 #gold {
-    padding: 24px, 36px;
+    padding: 20px;
+    border-radius: 20px;
     background: #946734;
     color: white;
 }
