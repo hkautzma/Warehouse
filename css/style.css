@@ -3,3 +3,23 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-image: url("../images/Warehouse\ Background.png"), lightgray 50% / cover no-repeat;
 }
+
+h1 {
+    font-family: 'Molle', cursive;
+    color: #9E2A25;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+nav {
+    width: 1157px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+    padding-left: 465px;
+    padding-right: 106px;
+    padding-bottom: 1829px;
+}
