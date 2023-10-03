@@ -26,21 +26,11 @@ ul {
 }
 
 .red {
-    padding-left: 36px;
-    padding-right: 36px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    border-radius: 50px;
     background: #9E2A25;
     color: white;
 }
 
 #gold {
-    padding-left: 36px;
-    padding-right: 36px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    border-radius: 50px;
     background: #946734;
     color: white;
 }
